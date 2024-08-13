@@ -1,0 +1,6 @@
+/*!
+ * Version: 0.2.1
+ * Build Time: 8/12/2024, 5:55:34 PM
+ */
+(self["webpackChunklive_activity_full"]=self["webpackChunklive_activity_full"]||[]).push([[826,45,8],{55909:function(n,i,t){t(66992),t(88674),t(17727),t(33948),t.e(951).then(t.bind(t,62951))}},function(n){var i=function(i){return n(n.s=i)};n.O(0,[998,64],(function(){return i(55909)}));n.O()}]);
+//# sourceMappingURL=index.dfa4f01c.js.map
